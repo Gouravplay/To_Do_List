@@ -32,7 +32,7 @@ project-folder/
 
 ## 📸 Screenshot
 !(screenshot1.png)
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/screenshot2.png)
 
 
 🙌 Acknowledgements
