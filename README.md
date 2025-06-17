@@ -31,7 +31,7 @@ project-folder/
 ├── script.js # Logic and interactivity
 
 ## 📸 Screenshot
-![Screenshot](assets/screenshot1.png)
+!(screenshot1.png)
 ![Screenshot](assets/screenshot.png)
 
 
