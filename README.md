@@ -30,7 +30,8 @@ project-folder/
 ├── style.css # Styling for UI
 ├── script.js # Logic and interactivity
 
-📸 Screenshot
+## 📸 Screenshot
+assets/Screenshot 2025-06-17 202425.png
 
 
 🙌 Acknowledgements
